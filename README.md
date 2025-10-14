@@ -1,8 +1,8 @@
 # THIS IS TERMINAL BASED TEXT ANIMATION
 ## USING C LAGUAGE
 <br>
-1. cool loading animation
+1. cool loading animation.
 <br>
-2. some string animation
+2. some string animation.
 <br>
-3. some text animation
+3. some text animation.
