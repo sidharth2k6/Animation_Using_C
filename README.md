@@ -1,5 +1,6 @@
 # THIS IS TERMINAL BASED TEXT ANIMATION
 ## USING C LAGUAGE
+---
 <br>
 1. cool loading animation.
 <br>
