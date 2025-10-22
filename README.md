@@ -6,6 +6,4 @@
 <br>
 2. some string animation.
 <br>
-3. some text animation....
-<br>
 work in progress........
